@@ -1,15 +1,15 @@
 {
-    "_id": "d70e76ef-a4f3-4ff0-bf09-ba20f61ad3e0",
-    "userId": "123",
-    "choices": [
-        {
-        "date": "2022-10-05",
-        "options": {
-            "locale": true,
-            "device": false,
-            "apps": true,
-            "sensors": false
-            }
-        }
-    ]
+	"teste": {
+		"_id": "d70e76ef-a4f3-4ff0-bf09-ba20f61ad3e0",
+		"userId": "123",
+		"choices": [{
+			"date": "2022-10-05",
+			"options": {
+				"locale": true,
+				"device": false,
+				"apps": true,
+				"sensors": false
+			}
+		}]
+	}
 }
